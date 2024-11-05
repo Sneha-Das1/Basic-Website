@@ -1,5 +1,5 @@
 
-# EDC IIEST SHIBPUR - Basic Website Repository 🌱💻
+# EDC IIEST SHIBPUR - Basic Website Repository for open source 🌱💻
 
 Welcome to the **EDC IIEST SHIBPUR** Basic Website repository! 🚀 This project is all about empowering aspiring entrepreneurs with essential **tech skills** to help their startups grow. We’re building a simple, foundational website using **HTML**, **CSS**, and **JavaScript**—and guess what? It’s open-source, just in time for **Hacktoberfest**! 🎉
 
